@@ -1,0 +1,45 @@
+/Users/georgenasseem/Documents/C# course/section_4/bin/Debug/net5.0/section_4.deps.json
+/Users/georgenasseem/Documents/C# course/section_4/bin/Debug/net5.0/section_4.runtimeconfig.json
+/Users/georgenasseem/Documents/C# course/section_4/bin/Debug/net5.0/section_4.runtimeconfig.dev.json
+/Users/georgenasseem/Documents/C# course/section_4/bin/Debug/net5.0/section_4.dll
+/Users/georgenasseem/Documents/C# course/section_4/bin/Debug/net5.0/ref/section_4.dll
+/Users/georgenasseem/Documents/C# course/section_4/bin/Debug/net5.0/section_4.pdb
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.csproj.AssemblyReference.cache
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.AssemblyInfoInputs.cache
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.AssemblyInfo.cs
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.csproj.CoreCompileInputs.cache
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.dll
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/ref/section_4.dll
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.pdb
+/Users/georgenasseem/Documents/C# course/section_4/obj/Debug/net5.0/section_4.genruntimeconfig.cache
+/Users/georgenasseem/Documents/coding/C#/section_4/bin/Debug/net5.0/section_4.deps.json
+/Users/georgenasseem/Documents/coding/C#/section_4/bin/Debug/net5.0/section_4.runtimeconfig.json
+/Users/georgenasseem/Documents/coding/C#/section_4/bin/Debug/net5.0/section_4.runtimeconfig.dev.json
+/Users/georgenasseem/Documents/coding/C#/section_4/bin/Debug/net5.0/section_4.dll
+/Users/georgenasseem/Documents/coding/C#/section_4/bin/Debug/net5.0/ref/section_4.dll
+/Users/georgenasseem/Documents/coding/C#/section_4/bin/Debug/net5.0/section_4.pdb
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.csproj.AssemblyReference.cache
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.AssemblyInfoInputs.cache
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.AssemblyInfo.cs
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.csproj.CoreCompileInputs.cache
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.dll
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/ref/section_4.dll
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.pdb
+/Users/georgenasseem/Documents/coding/C#/section_4/obj/Debug/net5.0/section_4.genruntimeconfig.cache
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/bin/Debug/net5.0/section_4.deps.json
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/bin/Debug/net5.0/section_4.runtimeconfig.json
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/bin/Debug/net5.0/section_4.runtimeconfig.dev.json
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/bin/Debug/net5.0/section_4.dll
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/bin/Debug/net5.0/ref/section_4.dll
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/bin/Debug/net5.0/section_4.pdb
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.csproj.AssemblyReference.cache
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.AssemblyInfoInputs.cache
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.AssemblyInfo.cs
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.csproj.CoreCompileInputs.cache
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.dll
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/ref/section_4.dll
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.pdb
+/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/Debug/net5.0/section_4.genruntimeconfig.cache

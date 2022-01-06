@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/section_4.csproj",
+      "projectUniqueName": "/Users/georgenasseem/Documents/Coding/Game Devolopment/C#/Database-project/section_4.csproj",
       "projectName": "section_4",
-      "projectPath": "/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/section_4.csproj",
+      "projectPath": "/Users/georgenasseem/Documents/Coding/Game Devolopment/C#/Database-project/section_4.csproj",
       "packagesPath": "/Users/georgenasseem/.nuget/packages/",
-      "outputPath": "/Users/georgenasseem/Documents/coding/game devolopment/C#/Database/obj/",
+      "outputPath": "/Users/georgenasseem/Documents/Coding/Game Devolopment/C#/Database-project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/georgenasseem/.nuget/NuGet/NuGet.Config"
